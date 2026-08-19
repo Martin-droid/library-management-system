@@ -1,0 +1,11 @@
+{
+    "name": "library-management-system",
+        "version": "1.0.0",
+        "description": "Core components of a Library Management System, built with modularity and reusability in mind (ES modules, Factory/Strategy/Observer patterns, dependency injection).",
+        "type": "module",
+        "main": "src/index.js",
+        "scripts": {
+          "start": "node src/index.js"
+    },
+  "license": "MIT"
+}
